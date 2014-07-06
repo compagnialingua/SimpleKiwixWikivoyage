@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="zim_path">/sdcard0/zim/%s.zim</string>
+     <string name="zim_path_fallback">/sdcard0/zim/%s.zim</string>
+</resources>

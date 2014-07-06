@@ -1,0 +1,162 @@
+<?xml version='1.0'?>
+<resources>
+<string name='add_bookmark'>
+Přidat záložku
+</string>
+<string name='app_name'>
+Průvodce
+</string>
+<string name='articlesearch_hint'>
+Zadejte aby vyhledat článek
+</string>
+<string name='button_backtotop'>
+Zpět nahoru
+</string>
+<string name='choose_file'>
+Vyberte soubor ZIM (*.zim)
+</string>
+<string name='error_articlenotfound'>
+Chyba: Načítání článku \%1$s\ se nezdařilo.
+</string>
+<string name='error_articleurlnotfound'>
+Chyba: Načítání článku (Url: %1$s) se nezdařilo.
+</string>
+<string name='error_fileinvalid'>
+Chyba: Vybraný soubor není souborem ZIM.
+</string>
+<string name='error_filenotfound'>
+Chyba: Vybraný soubor ZIM nebyl nalezen.
+</string>
+<string name='error_internet_connection_failed'>
+Není připojení k internetu
+</string>
+<string name='error_nozimfilesfound'>
+Nebyly nalezeny soubory ZIM./n Zobrazit Pomoc aby zjistit jak dobít obsah Kiwix.
+/n Pokud jste dobili soubor ZIM, můžete to zkusit ještě jednou za několik minut
+nebo spustit znova přístroj.
+</string>
+<string name='info_share_content'>
+Líbí se mi Wikipedie Offline s Kiwix! Všechny lidské znalosti na dosah ruky
+kdekoliv na světě! Bez připojení k internetu! http://goo.gl/h9Smkk
+</string>
+<string name='info_share_title'>
+Líbí se mi Wikipedie Offline s Kiwix!
+</string>
+<string name='menu_back'>
+Zpět
+</string>
+<string name='menu_bookmarks'>
+Záložky
+</string>
+<string name='menu_exit'>
+Ukončit
+</string>
+<string name='menu_exitfullscreen'>
+Odejít z režimu celé obrazovky
+</string>
+<string name='menu_forward'>
+Obnovit
+</string>
+<string name='menu_fullscreen'>
+Celá obrazovka
+</string>
+<string name='menu_help'>
+Pomoc
+</string>
+<string name='menu_home'>
+Hlavní strana
+</string>
+<string name='menu_openfile'>
+Otevřít soubor
+</string>
+<string name='menu_randomarticle'>
+Náhodný článek
+</string>
+<string name='menu_rescan_fs'>
+Skenovat paměťovou SD kartu znovu
+</string>
+<string name='menu_search'>
+Hledat
+</string>
+<string name='menu_searchintext'>
+Hledat v textu
+</string>
+<string name='menu_settings'>
+Preference
+</string>
+<string name='menu_share'>
+Doporučit známým
+</string>
+<string name='open_in_new_tab'>
+Otevřít odkaz v nové kartě
+</string>
+<string name='pref_backtotop'>
+Zpět nahoru
+</string>
+<string name='pref_backtotop_summary'>
+Zobrazit tlačítko přesunout nahoru na konci strany
+</string>
+<string name='pref_display_title'>
+Zobrazení
+</string>
+<string name='pref_info_title'>
+Informace
+</string>
+<string name='pref_info_version'>
+Verze
+</string>
+<string name='pref_language_chooser'>
+Vyberte jazyk
+</string>
+<string name='pref_language_title'>
+Jazyk
+</string>
+<string name='pref_nightmode'>
+Noční režim
+</string>
+<string name='pref_nightmode_summary'>
+Zobrazit článek s otočenými barvami.
+</string>
+<string name='pref_zoom_dialogtitle'>
+Úroveň zvětšení
+</string>
+<string name='pref_zoom_enable'>
+Přizpůsobit zoom
+</string>
+<string name='pref_zoom_enable_summary'>
+Zobrazit tlačítko zoom v pravém dolním rohu obrazovky.
+</string>
+<string name='pref_zoom_title'>
+Úroveň zvětšení
+</string>
+<string name='remove_bookmark'>
+Odstranit záložku
+</string>
+<string name='remove_tab'>
+Odstranit kartu
+</string>
+<string name='remove_tab_confirm'>
+Chcete odstranit tuto kartu
+</string>
+<string name='rescan_fs_warning'>
+Hledání souborů ZIM, čekejte prosím
+</string>
+<string name='save_image'>
+Zachovat obraz
+</string>
+<string name='save_image_error'>
+Chyba. Není možné zachovat obraz!
+</string>
+<string name='save_image_saved'>
+Obraz je zachován v galerii jako %s.
+</string>
+<string name='search_label'>
+Vyhledávání
+</string>
+<string name='share_via'>
+Podělte se prostřednictvím
+</string>
+<string name='view_bookmarks'>
+Zobrazit všechny záložky
+</string>
+</resources>

@@ -1,0 +1,162 @@
+<?xml version='1.0'?>
+<resources>
+<string name='add_bookmark'>
+Könyvjelző hozzáadása
+</string>
+<string name='app_name'>
+Útikönyv
+</string>
+<string name='articlesearch_hint'>
+Írjon, hogy kikeresse a cikket
+</string>
+<string name='button_backtotop'>
+Vissza a tetejére
+</string>
+<string name='choose_file'>
+ ZIM (*.zim) fájl kiválasztása
+</string>
+<string name='error_articlenotfound'>
+Hiba: a \%1$s\ cikk beolvasása nem sikerült.
+</string>
+<string name='error_articleurlnotfound'>
+Hiba: a (Url: %1$s) cikk beolvasása nem sikerült
+</string>
+<string name='error_fileinvalid'>
+Hiba: A kiválasztott fájl nem ZIM fájl.
+</string>
+<string name='error_filenotfound'>
+Hiba: A kiválasztott ZIM fájl nem található.
+</string>
+<string name='error_internet_connection_failed'>
+Nincs Internet-kapcsolat
+</string>
+<string name='error_nozimfilesfound'>
+A ZIM fájlok nem találhatóak.\n Lásd a Súgót, melyből kiderül, hogyan kell
+letölteni a Kiwix tartalmát. \nAmennyiben beolvasta a ZIM fájlt, próbálkozzon
+ismét néhány perc múlva, vagy indítsa újra a készüléket. 
+</string>
+<string name='info_share_content'>
+Kedvelem a Wikipedia Offline Kiwix-t, a mindig kéznél lévő emberi tudás
+enciklopédiáját! Internet-kapcsolat nélkül is elérhető! http://goo.gl/h9Smkk
+</string>
+<string name='info_share_title'>
+Kedvelem a Wikipedia Offline Kiwix-t!
+</string>
+<string name='menu_back'>
+Vissza
+</string>
+<string name='menu_bookmarks'>
+Könyvjelzők
+</string>
+<string name='menu_exit'>
+Befejezni
+</string>
+<string name='menu_exitfullscreen'>
+Kilépés a teljes képernyős módból
+</string>
+<string name='menu_forward'>
+Újra
+</string>
+<string name='menu_fullscreen'>
+Teljes képernyő
+</string>
+<string name='menu_help'>
+Súgó
+</string>
+<string name='menu_home'>
+Főoldal
+</string>
+<string name='menu_openfile'>
+Fájl megnyitása
+</string>
+<string name='menu_randomarticle'>
+Véletlenszerű cikk
+</string>
+<string name='menu_rescan_fs'>
+SD-kártya ismételt beolvasása
+</string>
+<string name='menu_search'>
+Keresés
+</string>
+<string name='menu_searchintext'>
+Keresés a szövegben
+</string>
+<string name='menu_settings'>
+Preferenciák
+</string>
+<string name='menu_share'>
+Oszd meg ismerőseiddel
+</string>
+<string name='open_in_new_tab'>
+Hivatkozás megnyitása új lapon
+</string>
+<string name='pref_backtotop'>
+Vissza a tetejére
+</string>
+<string name='pref_backtotop_summary'>
+Az oldal tetejére gomb megjelenítése az oldal alján.
+</string>
+<string name='pref_display_title'>
+Megjelenítés
+</string>
+<string name='pref_info_title'>
+Információk
+</string>
+<string name='pref_info_version'>
+Verzió
+</string>
+<string name='pref_language_chooser'>
+Válasszon nyelvet
+</string>
+<string name='pref_language_title'>
+Nyelv
+</string>
+<string name='pref_nightmode'>
+Éjszakai üzemmód
+</string>
+<string name='pref_nightmode_summary'>
+Cikk megtekintése fordított színekkel
+</string>
+<string name='pref_zoom_dialogtitle'>
+Nagyítás mértéke
+</string>
+<string name='pref_zoom_enable'>
+Zoom beállítása
+</string>
+<string name='pref_zoom_enable_summary'>
+Zoom gomb megjelenítése a képernyő jobb alsó sarkában
+</string>
+<string name='pref_zoom_title'>
+Nagyítás mértéke
+</string>
+<string name='remove_bookmark'>
+Könyvjelző törlése
+</string>
+<string name='remove_tab'>
+Kártya törlése
+</string>
+<string name='remove_tab_confirm'>
+Szeretné törölni ezt a kártyát?
+</string>
+<string name='rescan_fs_warning'>
+ZIM fájlok keresése, kérem várjon..
+</string>
+<string name='save_image'>
+Kép mentése
+</string>
+<string name='save_image_error'>
+Hiba. Nem sikerült menteni a képet.
+</string>
+<string name='save_image_saved'>
+A kép elmentve a galériában mint %s
+</string>
+<string name='search_label'>
+Keresés
+</string>
+<string name='share_via'>
+Megosztás
+</string>
+<string name='view_bookmarks'>
+Összes könyvjelző megtekintése
+</string>
+</resources>

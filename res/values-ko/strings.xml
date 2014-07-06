@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guidebook</string>
+    <string name="menu_openfile">파일 열기...</string>
+    <string name="menu_help">도움말</string>
+    <string name="menu_home">처음으로</string>
+    <string name="menu_forward">앞으로</string>
+    <string name="menu_back">뒤로</string>
+    <string name="menu_settings">환경 설정</string>
+    <string name="menu_search">검색</string>
+    <string name="menu_searchintext">본문에서 찾기</string>
+    <string name="menu_bookmarks">Bookmarks</string>
+    <string name="menu_randomarticle">임의 문서</string>
+    <string name="menu_fullscreen">전체 화면</string>
+    <string name="menu_exitfullscreen">전체 화면에서 나가기</string>
+    <string name="menu_exit">끝내기</string>
+    <string name="menu_rescan_fs">Rescan SD card</string>
+    <string name="menu_share">친구와 공유하기</string>
+    <string name="save_image">Save Image</string>
+    <string name="save_image_error">An error occured when trying to save an image!</string>
+    <string name="save_image_saved">Saved image as %s in your Pictures folder.</string>
+    <string name="rescan_fs_warning">ZIM 파일을 검색 중입니다. 잠시 기다려주세요...</string>
+    <string name="button_backtotop">맨 위로 돌아가기</string>
+    <string name="search_label">검색</string>
+    <string name="articlesearch_hint">문서를 찾아보는 종류</string>
+    <string name="choose_file">ZIM 내용 파일 (*.zim) 선택</string>
+    <string name="open_in_new_tab">새 탭으로 링크를 여시겠습니까?</string>
+    <string name="remove_tab_confirm">이 탭을 제거하시겠습니까?</string>
+    <string name="remove_tab">탭 제거</string>
+    <string name="add_bookmark">Add bookmark</string>
+    <string name="remove_bookmark">Remove bookmark</string>
+    <string name="view_bookmarks">View all bookmarks</string>
+    <string name="info_share_title">Kiwix로 위키백과 오프라인을 즐깁니다!</string>
+    <string name="info_share_content">Kiwix로 위키백과 오프라인을 즐깁니다! 어디를 가든 당신의 손에 모든 인류 지식이! 인터넷 없이! http://goo.gl/h9Smkk</string>
+    <string name="error_nozimfilesfound">장치에서 ZIM 파일이 발견되지 않았습니다.\n도움말에서 내용을 어떻게 Kiwix로 불러오는지 알아보세요.\n만약 파일을 외장 디스크나 기기에 넣었다면, 잠시 뒤에 다시 시도하거나 자시 시작해 보세요.</string>
+    <string name="error_filenotfound">오류: 선택된 ZIM 파일을 찾을 수 없습니다</string>
+    <string name="error_fileinvalid">에러: 선택한 파일은 올바른 ZIM 파일이 아닙니다.</string>
+    <string name="error_articlenotfound">오류: \"%1$s\" 문서를 불러오는 데 실패했습니다.</string>
+    <string name="error_articleurlnotfound">오류: 문서(Url: %1$s)를 불러오는 데 실패했습니다.</string>
+    <string name="pref_display_title">보기</string>
+    <string name="pref_zoom_title">확대/축소 수준</string>
+    <string name="pref_zoom_dialogtitle">확대/축소 수준</string>
+    <string-array name="pref_zoom_entries">
+        <item>Automatic</item>
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+    <string name="pref_info_title">정보</string>
+    <string name="pref_info_version">버전</string>
+    <string name="pref_zoom_enable">확대 컨트롤</string>
+    <string name="pref_zoom_enable_summary">화면 아래 오른쪽 모서리에 있는 확대 버튼을 보여줍니다</string>
+    <string name="pref_nightmode">야간 모드</string>
+    <string name="pref_nightmode_summary">되돌린 색으로 문서를 보여줍니다</string>
+    <string name="pref_backtotop">맨 위로 돌아가기</string>
+    <string name="pref_backtotop_summary">맨 위로 돌아가는 버튼을 문서의 끝에 표시하기</string>
+    <string name="share_via">...을 통해 공유</string>
+    <string name="pref_language_title">Language</string>
+    <string name="pref_language_chooser">Choose a language</string>
+    <string name="error_internet_connection_failed">Couldn\'t connect to the internet.</string>
+</resources>

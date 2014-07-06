@@ -1,0 +1,162 @@
+<?xml version='1.0'?>
+<resources>
+<string name='add_bookmark'>
+Pridať záložku
+</string>
+<string name='app_name'>
+Sprievodca
+</string>
+<string name='articlesearch_hint'>
+Zadajte pre nájdenie článku
+</string>
+<string name='button_backtotop'>
+Späť hore
+</string>
+<string name='choose_file'>
+Vyberte ZIM súbor (*. zim)
+</string>
+<string name='error_articlenotfound'>
+Chyba: Načítanie článku \%1$s\ zlyhalo.
+</string>
+<string name='error_articleurlnotfound'>
+Chyba: Načítanie článku (URL:% 1 $ S) zlyhalo.
+</string>
+<string name='error_fileinvalid'>
+Chyba: Vybraný súbor nie je ZIM súbor.
+</string>
+<string name='error_filenotfound'>
+Chyba: Vybraný ZIM súbor nebol nájdený.
+</string>
+<string name='error_internet_connection_failed'>
+Žiadne pripojenie na Internet
+</string>
+<string name='error_nozimfilesfound'>
+Nenašli sa súbory ZIM.\n Otvorte Pomocník a pozrite sa, ako načítať obsah Kiwix.
+\nAk sa ZIM súbor načítal, môžete to skúsiť znova za niekoľko minút, alebo
+reštartovať zariadenie.
+</string>
+<string name='info_share_content'>
+Páči sa mi Wikipedia Offline z Kiwixu! Všetky vedomosti na dosah ruky, nech ste
+kdekoľvek! Bez prístupu k Internetu! http://goo.gl/h9Smkk
+</string>
+<string name='info_share_title'>
+Páči sa mi Wikipedia Offline z Kiwixu!
+</string>
+<string name='menu_back'>
+Späť
+</string>
+<string name='menu_bookmarks'>
+Záložky
+</string>
+<string name='menu_exit'>
+Ukončiť
+</string>
+<string name='menu_exitfullscreen'>
+Ukončenie režimu zobrazenia na celú obrazovku
+</string>
+<string name='menu_forward'>
+Znova
+</string>
+<string name='menu_fullscreen'>
+Celá obrazovka
+</string>
+<string name='menu_help'>
+Pomocník
+</string>
+<string name='menu_home'>
+Hlavná stránka
+</string>
+<string name='menu_openfile'>
+Otvoriť súbor...
+</string>
+<string name='menu_randomarticle'>
+Náhodný článok
+</string>
+<string name='menu_rescan_fs'>
+Opätovné skenovanie SD karty
+</string>
+<string name='menu_search'>
+Hľadať
+</string>
+<string name='menu_searchintext'>
+Hľadať v texte
+</string>
+<string name='menu_settings'>
+Preferencie
+</string>
+<string name='menu_share'>
+Odporúčiť známym
+</string>
+<string name='open_in_new_tab'>
+Otvoriť odkaz na novej karte
+</string>
+<string name='pref_backtotop'>
+Späť hore
+</string>
+<string name='pref_backtotop_summary'>
+Zobraz tlačidlo Presunúť hore na konci strany
+</string>
+<string name='pref_display_title'>
+Zobrazenie
+</string>
+<string name='pref_info_title'>
+Informácie
+</string>
+<string name='pref_info_version'>
+Verzia
+</string>
+<string name='pref_language_chooser'>
+Vyberte si jazyk
+</string>
+<string name='pref_language_title'>
+Jazyk
+</string>
+<string name='pref_nightmode'>
+Nočný režim
+</string>
+<string name='pref_nightmode_summary'>
+Zobraziť článok s obrátenými farbami.
+</string>
+<string name='pref_zoom_dialogtitle'>
+Úroveň priblíženia
+</string>
+<string name='pref_zoom_enable'>
+Nastaviť zoom
+</string>
+<string name='pref_zoom_enable_summary'>
+Zobrazenie tlačidla zoomu v pravom dolnom rohu obrazovky.
+</string>
+<string name='pref_zoom_title'>
+Úroveň priblíženia
+</string>
+<string name='remove_bookmark'>
+Odstrániť záložku
+</string>
+<string name='remove_tab'>
+Odstrániť kartu
+</string>
+<string name='remove_tab_confirm'>
+Chcete zmazať túto kartu?
+</string>
+<string name='rescan_fs_warning'>
+Hľadanie Zim súborov, čakajte prosím ...
+</string>
+<string name='save_image'>
+Uložiť obrázok
+</string>
+<string name='save_image_error'>
+Chyba. Obrázok sa nedá uložiť!
+</string>
+<string name='save_image_saved'>
+Obrázok uložený v galérii ako % s
+</string>
+<string name='search_label'>
+Hľadať
+</string>
+<string name='share_via'>
+Zdieľať prostredníctvom ...
+</string>
+<string name='view_bookmarks'>
+Zobraziť všetky záložky
+</string>
+</resources>

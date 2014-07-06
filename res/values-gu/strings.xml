@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guidebook</string>
+    <string name="menu_openfile">ફાઇલ ખોલો...</string>
+    <string name="menu_help">મદદ</string>
+    <string name="menu_home">ઘર</string>
+    <string name="menu_forward">આગળ વધો</string>
+    <string name="menu_back">પાછાં જાવ</string>
+    <string name="menu_settings">પસંદ</string>
+    <string name="menu_search">શોધો</string>
+    <string name="menu_searchintext">ભાષા ના સંદર્ભ  માં શોધો</string>
+    <string name="menu_bookmarks">Bookmarks</string>
+    <string name="menu_randomarticle">કોઈપણ એક લેખ</string>
+    <string name="menu_fullscreen">આખી સ્ક્રિન</string>
+    <string name="menu_exitfullscreen">પૂર્ણ સ્ક્રીનથી બહાર નીકળો</string>
+    <string name="menu_exit">બહાર નીકળો</string>
+    <string name="menu_rescan_fs">Rescan SD card</string>
+    <string name="menu_share">મિત્રો સાથે વહેંચો</string>
+    <string name="save_image">Save Image</string>
+    <string name="save_image_error">An error occured when trying to save an image!</string>
+    <string name="save_image_saved">Saved image as %s in your Pictures folder.</string>
+    <string name="rescan_fs_warning">Scanning for ZIM files, please wait...</string>
+    <string name="button_backtotop">Back to Top</string>
+    <string name="search_label">શોધો</string>
+    <string name="articlesearch_hint">Type to lookup articles</string>
+    <string name="choose_file">ZIM માહિતી ફાઇલ (*.zim) પસંદ કરો</string>
+    <string name="open_in_new_tab">કડી નવી ટેબમાં ખોલશો?</string>
+    <string name="remove_tab_confirm">Do you want to remove this tab?</string>
+    <string name="remove_tab">ટેબ દૂર કરો</string>
+    <string name="add_bookmark">Add bookmark</string>
+    <string name="remove_bookmark">Remove bookmark</string>
+    <string name="view_bookmarks">View all bookmarks</string>
+    <string name="info_share_title">I enjoy Wikipedia Offline with Kiwix!</string>
+    <string name="info_share_content">I enjoy Wikipedia Offline with Kiwix! The whole human knowledge at hand wherever you go! Without Internet! http://goo.gl/h9Smkk</string>
+    <string name="error_nozimfilesfound">No ZIM files found on your device.\nTake a look at the Help Page to get directions on how to load content into Kiwix.\nIf you did put a ZIM file on your device/external storage, you might retry in a minute or restart your device.</string>
+    <string name="error_filenotfound">ક્ષતિ: પસંદ કરેલ ZIM ફાઇલ મળી શકી નહી.</string>
+    <string name="error_fileinvalid">ક્ષતિ: પસંદ કરેલ ફાઇલ યોગ્ય ZIM ફાઇલ નથી.</string>
+    <string name="error_articlenotfound">Error: Loading article \"%1$s\" failed.</string>
+    <string name="error_articleurlnotfound">Error: Loading article (Url: %1$s) failed.</string>
+    <string name="pref_display_title">દર્શાવો</string>
+    <string name="pref_zoom_title">Zoom level</string>
+    <string name="pref_zoom_dialogtitle">Zoom level</string>
+    <string-array name="pref_zoom_entries">
+        <item>Automatic</item>
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+    <string name="pref_info_title">માહિતી</string>
+    <string name="pref_info_version">આવૃત્તિ</string>
+    <string name="pref_zoom_enable">Zoom controls</string>
+    <string name="pref_zoom_enable_summary">Display a zoom button in the screen bottom right corner</string>
+    <string name="pref_nightmode">રાત્રિ સ્થિતિ</string>
+    <string name="pref_nightmode_summary">Show articles with reverted colors</string>
+    <string name="pref_backtotop">Back to Top</string>
+    <string name="pref_backtotop_summary">Display a button at the end of the page to scroll up to the top</string>
+    <string name="share_via">Share via</string>
+    <string name="pref_language_title">Language</string>
+    <string name="pref_language_chooser">Choose a language</string>
+    <string name="error_internet_connection_failed">Couldn\'t connect to the internet.</string>
+</resources>

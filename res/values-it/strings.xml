@@ -1,0 +1,161 @@
+<?xml version='1.0'?>
+<resources>
+<string name='add_bookmark'>
+Aggiungi una pagina
+</string>
+<string name='app_name'>
+Guide
+</string>
+<string name='articlesearch_hint'>
+Entra per cercare un articolo
+</string>
+<string name='button_backtotop'>
+Torna su
+</string>
+<string name='choose_file'>
+Scegli un file ZIM (*.zim)
+</string>
+<string name='error_articlenotfound'>
+Errore: Caricamento dell\'articolo \%1$s\ non riuscito.
+</string>
+<string name='error_articleurlnotfound'>
+Errore: Caricamento dell\'articolo (Url: %1$s) non riuscito.
+</string>
+<string name='error_fileinvalid'>
+Errore: Questo non è file ZIM.
+</string>
+<string name='error_filenotfound'>
+Errore: File non trovato.
+</string>
+<string name='error_internet_connection_failed'>
+Nessuna conessione a Inernet
+</string>
+<string name='error_nozimfilesfound'>
+Non ci sono file ZIM.\n Consulta Aiuto per caricare il contenuto di Kiwix. \n Se
+hai scaricato il file ZIM, riprova in qualche minuto o riavvia il dispositivo.
+</string>
+<string name='info_share_content'>
+Mi piace Wikipedia Offline con Kiwix! Tutta la conoscenza umana a portata di
+mano, ovunque tu sia! Senza accesso a Internet! http://goo.gl/h9Smkk
+</string>
+<string name='info_share_title'>
+Mi piace Wikipedia Offline con Kiwix!
+</string>
+<string name='menu_back'>
+Indietro
+</string>
+<string name='menu_bookmarks'>
+Pagine
+</string>
+<string name='menu_exit'>
+Fine
+</string>
+<string name='menu_exitfullscreen'>
+Esci da schermo intero
+</string>
+<string name='menu_forward'>
+Riprova
+</string>
+<string name='menu_fullscreen'>
+Schermo intero
+</string>
+<string name='menu_help'>
+Aiuto
+</string>
+<string name='menu_home'>
+Home page
+</string>
+<string name='menu_openfile'>
+Apri il file...
+</string>
+<string name='menu_randomarticle'>
+Articolo a caso
+</string>
+<string name='menu_rescan_fs'>
+Effettua di nuovo la scansione della scheda SD
+</string>
+<string name='menu_search'>
+Cerca
+</string>
+<string name='menu_searchintext'>
+Trova nel testo
+</string>
+<string name='menu_settings'>
+Opzioni
+</string>
+<string name='menu_share'>
+Invia ad un amico
+</string>
+<string name='open_in_new_tab'>
+Apri il link in una nuova scheda
+</string>
+<string name='pref_backtotop'>
+Torna su
+</string>
+<string name='pref_backtotop_summary'>
+Mostra il pulsante Torna su alla fine della pagina.
+</string>
+<string name='pref_display_title'>
+Visualizza
+</string>
+<string name='pref_info_title'>
+Informazioni
+</string>
+<string name='pref_info_version'>
+Versione
+</string>
+<string name='pref_language_chooser'>
+Scegli la lingua
+</string>
+<string name='pref_language_title'>
+Lingua
+</string>
+<string name='pref_nightmode'>
+Modalità notte
+</string>
+<string name='pref_nightmode_summary'>
+Mostra l\'articolo con i colori invertiti
+</string>
+<string name='pref_zoom_dialogtitle'>
+Livello di zoom
+</string>
+<string name='pref_zoom_enable'>
+Controlli zoom
+</string>
+<string name='pref_zoom_enable_summary'>
+Mostra il pulsante di zoom nell\'angolo in basso a destra dello schermo.
+</string>
+<string name='pref_zoom_title'>
+Livello di zoom
+</string>
+<string name='remove_bookmark'>
+Cancella la pagina
+</string>
+<string name='remove_tab'>
+Cancella la scheda
+</string>
+<string name='remove_tab_confirm'>
+Vuoi cancellare questa scheda?
+</string>
+<string name='rescan_fs_warning'>
+Ricerca dei file ZIM, aspetta...
+</string>
+<string name='save_image'>
+Salva immagine
+</string>
+<string name='save_image_error'>
+Errore. Non si può salva l\'immagine!
+</string>
+<string name='save_image_saved'>
+Immagine salvata nella galleria come %s.
+</string>
+<string name='search_label'>
+Ricerca
+</string>
+<string name='share_via'>
+Condividi via...
+</string>
+<string name='view_bookmarks'>
+Vedi tutte le pagine
+</string>
+</resources>

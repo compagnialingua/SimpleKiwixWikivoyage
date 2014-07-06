@@ -1,0 +1,162 @@
+<?xml version='1.0'?>
+<resources>
+<string name='add_bookmark'>
+Добавить закладку
+</string>
+<string name='app_name'>
+Путеводители
+</string>
+<string name='articlesearch_hint'>
+Впиши, чтобы найти статью
+</string>
+<string name='button_backtotop'>
+Вернуться наверх
+</string>
+<string name='choose_file'>
+Выбери файл ZIM (*.zim)
+</string>
+<string name='error_articlenotfound'>
+Ошибка: Загрузка статьи \%1$s\ не удалась.
+</string>
+<string name='error_articleurlnotfound'>
+Ошибка: Загрузка статьи (Url: %1$s) не удалась.
+</string>
+<string name='error_fileinvalid'>
+Ошибка: Выбранный файл не является файлом ZIM.
+</string>
+<string name='error_filenotfound'>
+Ошибка: Выбранный файл ZIM не найден.
+</string>
+<string name='error_internet_connection_failed'>
+Нет подключения к Интернету.
+</string>
+<string name='error_nozimfilesfound'>
+Не найдено файлов ZIM.\n Перейди в Помощь, чтобы узнать как загрузить содержание
+Kiwix. \nЕсли файл ZIM уже загружен, можешь попробовать еще раз через пару
+минут, или перезагрузить устройство.
+</string>
+<string name='info_share_content'>
+Мне нравится Wikipedia Offline с Kiwix! Все человеческие знания под рукой, где
+бы Вы ни были! Без доступа к Интернету! http://goo.gl/h9Smkk
+</string>
+<string name='info_share_title'>
+Мне нравится Wikipedia Offline с Kiwix!
+</string>
+<string name='menu_back'>
+Назад
+</string>
+<string name='menu_bookmarks'>
+Закладки
+</string>
+<string name='menu_exit'>
+Закончить
+</string>
+<string name='menu_exitfullscreen'>
+Выбрать режим полного экрана
+</string>
+<string name='menu_forward'>
+Повторить
+</string>
+<string name='menu_fullscreen'>
+Полный экран
+</string>
+<string name='menu_help'>
+Помощь
+</string>
+<string name='menu_home'>
+Главная страница
+</string>
+<string name='menu_openfile'>
+Открыть файл...
+</string>
+<string name='menu_randomarticle'>
+Случайная статья
+</string>
+<string name='menu_rescan_fs'>
+Сканировать карту SD снова
+</string>
+<string name='menu_search'>
+Ищи
+</string>
+<string name='menu_searchintext'>
+Найти в тексте
+</string>
+<string name='menu_settings'>
+Установки
+</string>
+<string name='menu_share'>
+Рекомендовать знакомым
+</string>
+<string name='open_in_new_tab'>
+Открыть ссылку в новой вкладке
+</string>
+<string name='pref_backtotop'>
+Вернуться наверх
+</string>
+<string name='pref_backtotop_summary'>
+Покажи кнопку перейти вверх в конце страницы.
+</string>
+<string name='pref_display_title'>
+Показать
+</string>
+<string name='pref_info_title'>
+Информация
+</string>
+<string name='pref_info_version'>
+Версия
+</string>
+<string name='pref_language_chooser'>
+Выбрать язык
+</string>
+<string name='pref_language_title'>
+Язык
+</string>
+<string name='pref_nightmode'>
+Ночной режим
+</string>
+<string name='pref_nightmode_summary'>
+Показать статью с обратными цветами.
+</string>
+<string name='pref_zoom_dialogtitle'>
+Уровень масштабирования
+</string>
+<string name='pref_zoom_enable'>
+Управления масштабированием
+</string>
+<string name='pref_zoom_enable_summary'>
+Покажи кнопку увеличения в правым нижнем углу экрана.
+</string>
+<string name='pref_zoom_title'>
+Уровень масштабирования
+</string>
+<string name='remove_bookmark'>
+Удалить закладку
+</string>
+<string name='remove_tab'>
+Удалить карту
+</string>
+<string name='remove_tab_confirm'>
+Хочешь удалить эту карту?
+</string>
+<string name='rescan_fs_warning'>
+Поиск файлов ZIM, пожалуйста, подождите... 
+</string>
+<string name='save_image'>
+Сохранить изображение
+</string>
+<string name='save_image_error'>
+Ошибка. Нельзя сохранить изображение!
+</string>
+<string name='save_image_saved'>
+Изображение сохранено в галереи как %s.
+</string>
+<string name='search_label'>
+Поиск
+</string>
+<string name='share_via'>
+Поделись с помощью...
+</string>
+<string name='view_bookmarks'>
+Посмотреть все закладки
+</string>
+</resources>

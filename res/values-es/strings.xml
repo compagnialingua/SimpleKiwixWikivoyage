@@ -1,0 +1,163 @@
+<?xml version='1.0'?>
+<resources>
+<string name='add_bookmark'>
+Añadir marcador
+</string>
+<string name='app_name'>
+Guías
+</string>
+<string name='articlesearch_hint'>
+Introduce texto para buscar un artículo
+</string>
+<string name='button_backtotop'>
+Volver arriba
+</string>
+<string name='choose_file'>
+Elige archivo ZIM (*.zim)
+</string>
+<string name='error_articlenotfound'>
+Error: Falló la carga del artículo \%1$s\.
+</string>
+<string name='error_articleurlnotfound'>
+Error: La carga de artículo (Url: %1$s) ha fallado.
+</string>
+<string name='error_fileinvalid'>
+Error: El archivo seleccionado no es un archivo ZIM válido.
+</string>
+<string name='error_filenotfound'>
+Error: No se encontró el archivo ZIM seleccionado.
+</string>
+<string name='error_internet_connection_failed'>
+No hay conexión de Internet.
+</string>
+<string name='error_nozimfilesfound'>
+No se encontró ningún archivo ZIM en tu dispositivo.\nEcha un vistazo a la
+Página de Ayuda para obtener instrucciones acerca de cómo cargar contenido en
+Kiwix.\nSi pusiste un archivo ZIM en tu dispositivo de almacenamiento externo,
+puedes volver a intenta
+</string>
+<string name='info_share_content'>
+¡Me gusta Wikipedia Offline con Kiwix! Todo el conocimiento humano a tu alcance
+estés donde estés. ¡Sin conexión al Internet! http://goo.gl/h9Smkk
+</string>
+<string name='info_share_title'>
+¡Me gusta Wikipedia Offline con Kiwix!
+</string>
+<string name='menu_back'>
+Atrás
+</string>
+<string name='menu_bookmarks'>
+Marcadores
+</string>
+<string name='menu_exit'>
+Terminar
+</string>
+<string name='menu_exitfullscreen'>
+Salir del modo de pantalla completa
+</string>
+<string name='menu_forward'>
+Repetir
+</string>
+<string name='menu_fullscreen'>
+Pantalla completa
+</string>
+<string name='menu_help'>
+Ayuda
+</string>
+<string name='menu_home'>
+Página principal
+</string>
+<string name='menu_openfile'>
+Abrir archivo...
+</string>
+<string name='menu_randomarticle'>
+Artículo aleatorio
+</string>
+<string name='menu_rescan_fs'>
+Vuelve a escanear la tarjeta SD
+</string>
+<string name='menu_search'>
+Buscar
+</string>
+<string name='menu_searchintext'>
+Buscar en el texto
+</string>
+<string name='menu_settings'>
+Preferencias
+</string>
+<string name='menu_share'>
+Recomienda a tus amigos
+</string>
+<string name='open_in_new_tab'>
+Abrir enlace en una pestaña nueva
+</string>
+<string name='pref_backtotop'>
+Volver al principio
+</string>
+<string name='pref_backtotop_summary'>
+Mostrar el botón de Volver al principio al final de la página.
+</string>
+<string name='pref_display_title'>
+Mostrar
+</string>
+<string name='pref_info_title'>
+Información
+</string>
+<string name='pref_info_version'>
+Versión
+</string>
+<string name='pref_language_chooser'>
+Elegir idioma
+</string>
+<string name='pref_language_title'>
+Idioma
+</string>
+<string name='pref_nightmode'>
+Modo nocturno
+</string>
+<string name='pref_nightmode_summary'>
+Mostrar artículo en colores invertidos.
+</string>
+<string name='pref_zoom_dialogtitle'>
+Nivel de zoom
+</string>
+<string name='pref_zoom_enable'>
+Controles de zoom
+</string>
+<string name='pref_zoom_enable_summary'>
+Mostrar el botón de zoom en la esquina inferior derecha de la pantalla.
+</string>
+<string name='pref_zoom_title'>
+Nivel de zoom
+</string>
+<string name='remove_bookmark'>
+Eliminar marcador
+</string>
+<string name='remove_tab'>
+Eliminar pestaña
+</string>
+<string name='remove_tab_confirm'>
+Quieres eliminar esta pestaña?
+</string>
+<string name='rescan_fs_warning'>
+Buscando archivos ZIM. Espere, por favor...
+</string>
+<string name='save_image'>
+Guardar imagen
+</string>
+<string name='save_image_error'>
+Error: la imagen no puede ser guardada.
+</string>
+<string name='save_image_saved'>
+Imagen se ha guardado en la galería como %s.
+</string>
+<string name='search_label'>
+Buscar
+</string>
+<string name='share_via'>
+Compartir a través de...
+</string>
+<string name='view_bookmarks'>
+Ver todos los marcadores
+</string>
+</resources>

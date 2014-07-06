@@ -1,0 +1,163 @@
+<?xml version='1.0'?>
+<resources>
+<string name='add_bookmark'>
+Yer imi ekle
+</string>
+<string name='app_name'>
+Kullanıcı el kitabı
+</string>
+<string name='articlesearch_hint'>
+Bir makale aramak için yazın
+</string>
+<string name='button_backtotop'>
+Başa dön
+</string>
+<string name='choose_file'>
+Zım dosyasını seçin (*zim)
+</string>
+<string name='error_articlenotfound'>
+Hata: Yüklenen makale \%1$s\ başarısız oldu.
+</string>
+<string name='error_articleurlnotfound'>
+Hata: Yüklenen makale (Url: %1$s) \"başarısız oldu\".
+</string>
+<string name='error_fileinvalid'>
+Hata:Seçilen dosya geçerli bir ZIM dosyası değil.
+</string>
+<string name='error_filenotfound'>
+Hata: Seçtiğiniz ZIM dosyası bulunamadı.
+</string>
+<string name='error_internet_connection_failed'>
+İnternet bağlantısı yok
+</string>
+<string name='error_nozimfilesfound'>
+Cihazınızda ZIM dosyaları bulunamadı.\Kiwixe nasıl içerik yükleneciğini öğrenmek
+için yardım sayfasına göz atın.\Cihazınıza bir ZIM dosyası attınız/harici
+depolama,bir dakika içerisinde tekrar deneyebilir yada cihazınızı tekrar
+başlatabilirsiniz.
+</string>
+<string name='info_share_content'>
+Kiwix ile çevrimdışı Wikipedianın tadına varıyorum! Tüm bilgiler nereye gidersen
+elinin altında ! http://goo.gl/h9Smkk
+</string>
+<string name='info_share_title'>
+Kiwix ile Wikipediadan tadına varın !
+</string>
+<string name='menu_back'>
+Geri
+</string>
+<string name='menu_bookmarks'>
+Yer imi
+</string>
+<string name='menu_exit'>
+Çık
+</string>
+<string name='menu_exitfullscreen'>
+Tam ekrandan çık
+</string>
+<string name='menu_forward'>
+Yinele
+</string>
+<string name='menu_fullscreen'>
+Tam ekran
+</string>
+<string name='menu_help'>
+Yardım
+</string>
+<string name='menu_home'>
+Ana Sayfa
+</string>
+<string name='menu_openfile'>
+Dosya aç...
+</string>
+<string name='menu_randomarticle'>
+Rastgele makale
+</string>
+<string name='menu_rescan_fs'>
+Sd kartı tekrar tara
+</string>
+<string name='menu_search'>
+Ara
+</string>
+<string name='menu_searchintext'>
+Metinde bul
+</string>
+<string name='menu_settings'>
+Tercihler
+</string>
+<string name='menu_share'>
+Arkadaşına öner
+</string>
+<string name='open_in_new_tab'>
+Url linki yeni bir sayfada açın
+</string>
+<string name='pref_backtotop'>
+Başa dön
+</string>
+<string name='pref_backtotop_summary'>
+Sayfanın sonundaki bir düğmeyi yukarı çıkmak için görüntüleyin.
+</string>
+<string name='pref_display_title'>
+Göster
+</string>
+<string name='pref_info_title'>
+Bilgi
+</string>
+<string name='pref_info_version'>
+Sürüm
+</string>
+<string name='pref_language_chooser'>
+Dil seçin
+</string>
+<string name='pref_language_title'>
+Dil
+</string>
+<string name='pref_nightmode'>
+Gece modu
+</string>
+<string name='pref_nightmode_summary'>
+Makaleleri eski haline çevrilmiş renkleri ile görüntüleyin
+</string>
+<string name='pref_zoom_dialogtitle'>
+Yakınlaştırma seviyesi
+</string>
+<string name='pref_zoom_enable'>
+Yakınlaştırma kontrolu
+</string>
+<string name='pref_zoom_enable_summary'>
+Yakınlaştırma butonunu ekranın sağ alt köşesinde görüntüle
+</string>
+<string name='pref_zoom_title'>
+Yakınlaştırma seviyesi
+</string>
+<string name='remove_bookmark'>
+Yer imi sil
+</string>
+<string name='remove_tab'>
+Sekmeyi sil
+</string>
+<string name='remove_tab_confirm'>
+Sekmeyi silmek istiyor musunuz ?
+</string>
+<string name='rescan_fs_warning'>
+Zım dosyaları için arıyor,lütfen bekleyin..
+</string>
+<string name='save_image'>
+Resmi kaydet
+</string>
+<string name='save_image_error'>
+Hata: Resim kayıt edilemiyor !
+</string>
+<string name='save_image_saved'>
+Resim %s olarak kaydedildi
+</string>
+<string name='search_label'>
+Ara
+</string>
+<string name='share_via'>
+Bununla paylaş …
+</string>
+<string name='view_bookmarks'>
+Tüm yer imlerini gör
+</string>
+</resources>

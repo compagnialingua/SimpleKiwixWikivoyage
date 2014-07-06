@@ -1,0 +1,162 @@
+<?xml version='1.0'?>
+<resources>
+<string name='add_bookmark'>
+Dodaj zakładkę
+</string>
+<string name='app_name'>
+Przewodniki
+</string>
+<string name='articlesearch_hint'>
+Wpisz aby wyszukać artykuł
+</string>
+<string name='button_backtotop'>
+Powrót do góry
+</string>
+<string name='choose_file'>
+Wybierz plik ZIM (*.zim)
+</string>
+<string name='error_articlenotfound'>
+Błąd: Ładowanie artykułu \%1$s\ nie powiodło się.
+</string>
+<string name='error_articleurlnotfound'>
+Błąd: Ładowanie artykułu (Url: %1$s) nie powiodło się.
+</string>
+<string name='error_fileinvalid'>
+Bład: Wybrany plik nie jest plikiem ZIM.
+</string>
+<string name='error_filenotfound'>
+Błąd: Nie znaleziono wybranego pliku ZIM.
+</string>
+<string name='error_internet_connection_failed'>
+Nie ma połączenia z Internetem.
+</string>
+<string name='error_nozimfilesfound'>
+Nie znaleziono plików ZIM na twoim urządzeniu.\nWyświetl pomoc, aby uzyskać
+więcej informacji.\nJeżeli wgrałeś plik ZIM na urządzenie, spróbuj włączyć je
+ponownie za kilka minut.
+</string>
+<string name='info_share_content'>
+Lubię Wikipedię Offline i KiwiX! Cała wiedza ludzka zawsze pod ręką! Bez dostępu
+do Internetu! http://goo.gl/h9Smkk
+</string>
+<string name='info_share_title'>
+Lubię Wikipedię Offline i Kiwix!
+</string>
+<string name='menu_back'>
+Cofnij
+</string>
+<string name='menu_bookmarks'>
+Zakładki
+</string>
+<string name='menu_exit'>
+Zakończ
+</string>
+<string name='menu_exitfullscreen'>
+Wyjdź z trybu pełnego ekranu
+</string>
+<string name='menu_forward'>
+Ponów
+</string>
+<string name='menu_fullscreen'>
+Pełny ekran
+</string>
+<string name='menu_help'>
+Pomoc
+</string>
+<string name='menu_home'>
+Strona główna
+</string>
+<string name='menu_openfile'>
+Otwórz plik...
+</string>
+<string name='menu_randomarticle'>
+Losowy artykuł
+</string>
+<string name='menu_rescan_fs'>
+Przeskanuj kartę SD ponownie
+</string>
+<string name='menu_search'>
+Szukaj
+</string>
+<string name='menu_searchintext'>
+Znajdź w tekście
+</string>
+<string name='menu_settings'>
+Preferencje
+</string>
+<string name='menu_share'>
+Poleć znajomym
+</string>
+<string name='open_in_new_tab'>
+Otwórz odnośnik w nowej karcie
+</string>
+<string name='pref_backtotop'>
+Powrót do góry
+</string>
+<string name='pref_backtotop_summary'>
+Wyświetl przycisk powrotu na początek na końcu każdej strony.
+</string>
+<string name='pref_display_title'>
+Widok
+</string>
+<string name='pref_info_title'>
+Informacje
+</string>
+<string name='pref_info_version'>
+Wersja
+</string>
+<string name='pref_language_chooser'>
+Wybierz język
+</string>
+<string name='pref_language_title'>
+Język
+</string>
+<string name='pref_nightmode'>
+Tryb nocny
+</string>
+<string name='pref_nightmode_summary'>
+Pokaż artykuły w odwróconych kolorach.
+</string>
+<string name='pref_zoom_dialogtitle'>
+Poziom powiększenia
+</string>
+<string name='pref_zoom_enable'>
+Kontrola zoomu
+</string>
+<string name='pref_zoom_enable_summary'>
+Wyświetl przycisk zoom w prawym dolnym rogu ekranu.
+</string>
+<string name='pref_zoom_title'>
+Poziom powiększenia
+</string>
+<string name='remove_bookmark'>
+Usuń zakładkę
+</string>
+<string name='remove_tab'>
+Usuń kartę
+</string>
+<string name='remove_tab_confirm'>
+Czy chcesz usunąć tę kartę?
+</string>
+<string name='rescan_fs_warning'>
+Poszukiwanie plików ZIM, proszę czekać...
+</string>
+<string name='save_image'>
+Zachowaj obraz
+</string>
+<string name='save_image_error'>
+Błąd: Obraz nie został zachowany.
+</string>
+<string name='save_image_saved'>
+Obraz zachowany jako %s w twojej galerii.
+</string>
+<string name='search_label'>
+Szukaj
+</string>
+<string name='share_via'>
+Podziel się za pośrednictwem...
+</string>
+<string name='view_bookmarks'>
+Zobacz wszystkie zakładki
+</string>
+</resources>

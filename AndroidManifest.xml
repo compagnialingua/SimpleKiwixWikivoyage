@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          android:versionCode="19"
+          android:versionName="2.0.1"
+          package="org.kiwix.kiwixmobile">
+
+    <supports-screens
+            android:largeScreens="true"
+            android:normalScreens="true"
+            android:smallScreens="true"
+            android:resizeable="true"
+            android:anyDensity="true"/>
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+
+    <uses-sdk
+            android:minSdkVersion="15"
+            android:targetSdkVersion="19"/>
+    <application
+            android:icon="@drawable/ico_guide"
+            android:label="@string/app_name"
+            android:allowBackup="true">
+        <activity
+                android:name=".KiwixMobileActivity"
+                android:label="@string/app_name"
+                android:theme="@style/AppStyle"
+                android:configChanges="orientation|keyboardHidden|screenSize|locale">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+
+                <data android:scheme="file"/>
+                <data android:host="*"/>
+                <data android:pathPattern=".*\\.zim.*"/>
+                <data android:pathPattern=".*\\..*\\.zim.*"/>
+                <data android:pathPattern=".*\\..*\\..*\\.zim.*"/>
+                <data android:pathPattern=".*\\..*\\..*\\..*\\.zim.*"/>
+                <data android:mimeType="*/*"/>
+            </intent-filter>
+        </activity>
+        <activity
+                android:name=".settings.KiwixSettingsActivityGB"
+                android:theme="@style/AppStyle"/>
+        <activity android:name=".settings.KiwixSettingsActivityHC"/>
+        <activity android:name=".LibraryActivity"
+                  android:theme="@style/AppStyle"/>
+
+        <provider
+                android:name=".ZimContentProvider"
+                android:authorities="org.kiwix.zim"
+                android:exported="false"/>
+
+        <activity
+                android:name=".LoadingActivity"
+                android:icon="@drawable/ico_guide"
+                android:label="@string/app_name"
+                android:theme="@style/AppStyle" >
+        </activity>
+
+        <activity
+                android:name=".ZimFileSelectActivity"
+                android:icon="@drawable/ico_guide"
+                android:theme="@style/AppStyle"
+                android:label="@string/choose_file">
+            <!-- TODO -->
+            <intent-filter>
+                <action android:name="android.intent.action.GET_CONTENT"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.OPENABLE"/>
+
+                <data android:mimeType="*/*"/>
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>
